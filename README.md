@@ -52,11 +52,7 @@ This project was developed as **Task 2 – FAQ Chatbot** for the **CodeAlpha AI 
 
 ## 👩‍💻 Developer
 
-**CH. Sahitya**
-
-## 🌐 Live Demo
-
-
+**CH. Sahitya* *
 
 ## 📄 License
 
